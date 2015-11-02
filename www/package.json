@@ -1,0 +1,14 @@
+{
+  "name": "front-end-test",
+  "version": "1.0.0",
+  "description": "front-end-test",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "an",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.13.3"
+  }
+}
